@@ -5,11 +5,9 @@ Curated list of investment &amp; finance related resources.
 ## Contents
 
 * [Books](#books)
-* [Websites](#websites)
+* [Websites / Blogs](#websites-blogs)
 * [Courses](#courses)
-* [Videos](#videos)
 * [Sub Reddits](#sub-reddits)
-* [Personal Blogs](#personal-blogs)
 * [Tools](#tools)
 
 ### Books
@@ -19,6 +17,10 @@ Curated list of investment &amp; finance related resources.
 * [Value Investing And Behavioral Finance: Insights Into Indian Stock Market Realities](https://www.goodreads.com/book/show/6922763-value-investing-and-behavioral-finance) - Parag Parikh
 * [Stocks To Riches](https://www.goodreads.com/book/show/6857031-stocks-to-riches) - Parag Parikh
 * [Damodaran on Valuation: Security Analysis for Investment and Corporate Finance](https://www.goodreads.com/book/show/1422813.Damodaran_on_Valuation) - Aswath Damodaran
+* [The Outsiders](https://www.goodreads.com/book/show/13586932-the-outsiders) - William N. Thorndike Jr.
+* [Fooling Some of the People All of the Time](https://www.goodreads.com/book/show/7663760-fooling-some-of-the-people-all-of-the-time) - David Einhorn
+* [The Most Important Thing Illuminated](https://www.goodreads.com/book/show/10454418-the-most-important-thing) - Howard Marks
+* [Berkshire Hathaway Letters to Shareholders](https://www.goodreads.com/book/show/17972688-berkshire-hathaway-letters-to-shareholders) - Warren Edward Buffett
 * [The Thoughtful Investor](https://www.goodreads.com/book/show/21949163-the-thoughtful-investor) - Basant Maheshwari
 * [Common Stocks and Uncommon Profits](https://www.goodreads.com/book/show/25574.Common_Stocks_and_Uncommon_Profits_and_Other_Writings) - Philip Arthur Fisher
 * [One Up On Wall Street](https://www.goodreads.com/book/show/762462.One_Up_On_Wall_Street) - Peter Lynch
@@ -46,11 +48,23 @@ Curated list of investment &amp; finance related resources.
 * [When Genius Failed: The Rise and Fall of Long-Term Capital Management](https://www.goodreads.com/book/show/10669.When_Genius_Failed) - Roger Lowenstein
 
 
-### Websites
-[Pulse](http://pulse.zerodha.com/)
+### Websites / Blogs
 
-[Capital Mind](https://capitalmind.in/)
-[]
+* [Pulse](http://pulse.zerodha.com/)
+* [ContrarianValue Edge](https://contrarianvalueedge.wordpress.com/)
+* [Safal Niveshak](http://www.safalniveshak.com/)
+* [FreeFinCal](https://freefincal.com/)
+* [Farnam Street Blog](https://www.farnamstreetblog.com/)
+* [Of Dollars and Data](https://ofdollarsanddata.com/)
+* [Capital Mind](https://capitalmind.in/)
+* [Long Term Value Blog](https://longtermvalue.wordpress.com/)
+* [Musings on Markets](http://aswathdamodaran.blogspot.in/)
+* [Gannon Investing](http://www.gannononinvesting.com/)
+* [ShadowStock](http://shadowstock.blogspot.in/)
+* [Odd Ball Stocks](http://www.oddballstocks.com//)
+* [Glenn Chan's Random Notes on Investing](https://glennchan.wordpress.com/)
+* [Fundoo Professor](https://fundooprofessor.wordpress.com/)
+
 
 
 ### Courses
@@ -77,7 +91,6 @@ Created by: Babson College
 * [Understanding Islamic Insurance and Investments](https://www.edx.org/course/introduction-investments-iimbx-fc250x-0) - Learn about the Islamic Takaful system and the basics of Islamic insurance, mutual and investment funds.
 Created by: The Islamic Research and Training Institute
 
-### Videos 
 
 
 ### Sub-Reddits
@@ -91,13 +104,6 @@ Created by: The Islamic Research and Training Institute
 * [r/Economics/](https://www.reddit.com/r/Economics/)
 * [r/FIREIndia](https://www.reddit.com/r/FIREIndia/)
 
-### Personal-Blogs
-
-* [ContrarianValue Edge](https://contrarianvalueedge.wordpress.com/)
-* [Safal Niveshak](http://www.safalniveshak.com/)
-* [FreeFinCal](https://freefincal.com/)
-* [Farnam Street Blog](https://www.farnamstreetblog.com/)
-* [Of Dollars and Data](https://ofdollarsanddata.com/)
 
 ### Tools
 
