@@ -22,28 +22,28 @@ Curated list of investment &amp; finance related resources.
 * [The Thoughtful Investor](https://www.goodreads.com/book/show/21949163-the-thoughtful-investor) - Basant Maheshwari
 * [Common Stocks and Uncommon Profits](https://www.goodreads.com/book/show/25574.Common_Stocks_and_Uncommon_Profits_and_Other_Writings) - Philip Arthur Fisher
 * [One Up On Wall Street](https://www.goodreads.com/book/show/762462.One_Up_On_Wall_Street) - Peter Lynch
-* [Beating the Street] (https://www.goodreads.com/book/show/762464.Beating_the_Street) - Peter Lynch
+* [Beating the Street](https://www.goodreads.com/book/show/762464.Beating_the_Street) - Peter Lynch
 * [Stocks for the Long Run](https://www.goodreads.com/book/show/965633.Stocks_for_the_Long_Run) - Jeremy J. Siegel
-* [Common Sense on Mutual Funds] (https://www.goodreads.com/book/show/153765.Common_Sense_on_Mutual_Funds) - John Clifton Bogle
-* [The Little Book of Common Sense Investing] (https://www.goodreads.com/book/show/171127.The_Little_Book_of_Common_Sense_Investing) - John Clifton Bogle
-* [Flash Boys: A Wall Street Revolt] (https://www.goodreads.com/book/show/24724602-flash-boys) - Michael Lewis
-* [The Millionaire Next Door] (https://www.goodreads.com/book/show/998.The_Millionaire_Next_Door) - Dr. Thomas J. Stanley
-* [The Essays of Warren Buffett: Lessons for Corporate America] (https://www.goodreads.com/book/show/145565.The_Essays_of_Warren_Buffett) - Warren Edward Buffett
-* [Thinking, Fast and Slow] (https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) - Daniel Kahneman
-* [Competitive Strategy: Techniques for Analyzing Industries and Competitors] (https://www.goodreads.com/book/show/407999.Competitive_Strategy) - Michael E. Porter
-* [Value Investing: From Graham to Buffett and Beyond] (https://www.goodreads.com/book/show/293636.Value_Investing) - Bruce Corman Norbert Greenwald
-* [Think and Grow Rich] (https://www.goodreads.com/book/show/30186948-think-and-grow-rich) - Napoleon Hill
-* [Reminiscences of a Stock Operator] (https://www.goodreads.com/book/show/100779.Reminiscences_of_a_Stock_Operator) - Edwin Lefèvre
-* [Market Wizards] (https://www.goodreads.com/book/show/966769.Market_Wizards) - Jack Schwager
-* [Trade Your Way to Financial Freedom] (https://www.goodreads.com/book/show/161791.Trade_Your_Way_to_Financial_Freedom) - Van K Tharp
-* [A Random Walk Down Wall Street] (https://www.goodreads.com/book/show/900892.A_Random_Walk_Down_Wall_Street) - Burton G. Malkiel
-* [The Little Book That Beats the Market] (https://www.goodreads.com/book/show/75889.The_Little_Book_That_Beats_the_Market) - Joel Greenblatt
-* [The Alchemy of Finance] (https://www.goodreads.com/book/show/369708.The_Alchemy_of_Finance) - George Soros
-* [Fooled by Randomness] (https://www.goodreads.com/book/show/38315.Fooled_by_Randomness) - Nassim Nicholas Taleb
-* [Extraordinary Popular Delusions and the Madness of Crowds] (https://www.goodreads.com/book/show/35790.Extraordinary_Popular_Delusions_and_the_Madness_of_Crowds_Confusi_n_de_Confusiones) - Martin S. Fridson 
-* [The Black Swan] (https://www.goodreads.com/book/show/242472.The_Black_Swan) - Nassim Nicholas Taleb
-* [Irrational Exuberance] (https://www.goodreads.com/book/show/100132.Irrational_Exuberance) - Robert J. Shiller
-* [When Genius Failed: The Rise and Fall of Long-Term Capital Management] (https://www.goodreads.com/book/show/10669.When_Genius_Failed) - Roger Lowenstein
+* [Common Sense on Mutual Funds](https://www.goodreads.com/book/show/153765.Common_Sense_on_Mutual_Funds) - John Clifton Bogle
+* [The Little Book of Common Sense Investing](https://www.goodreads.com/book/show/171127.The_Little_Book_of_Common_Sense_Investing) - John Clifton Bogle
+* [Flash Boys: A Wall Street Revolt](https://www.goodreads.com/book/show/24724602-flash-boys) - Michael Lewis
+* [The Millionaire Next Door](https://www.goodreads.com/book/show/998.The_Millionaire_Next_Door) - Dr. Thomas J. Stanley
+* [The Essays of Warren Buffett: Lessons for Corporate America](https://www.goodreads.com/book/show/145565.The_Essays_of_Warren_Buffett) - Warren Edward Buffett
+* [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) - Daniel Kahneman
+* [Competitive Strategy: Techniques for Analyzing Industries and Competitors](https://www.goodreads.com/book/show/407999.Competitive_Strategy) - Michael E. Porter
+* [Value Investing: From Graham to Buffett and Beyond](https://www.goodreads.com/book/show/293636.Value_Investing) - Bruce Corman Norbert Greenwald
+* [Think and Grow Rich](https://www.goodreads.com/book/show/30186948-think-and-grow-rich) - Napoleon Hill
+* [Reminiscences of a Stock Operator](https://www.goodreads.com/book/show/100779.Reminiscences_of_a_Stock_Operator) - Edwin Lefèvre
+* [Market Wizards](https://www.goodreads.com/book/show/966769.Market_Wizards) - Jack Schwager
+* [Trade Your Way to Financial Freedom](https://www.goodreads.com/book/show/161791.Trade_Your_Way_to_Financial_Freedom) - Van K Tharp
+* [A Random Walk Down Wall Street](https://www.goodreads.com/book/show/900892.A_Random_Walk_Down_Wall_Street) - Burton G. Malkiel
+* [The Little Book That Beats the Market](https://www.goodreads.com/book/show/75889.The_Little_Book_That_Beats_the_Market) - Joel Greenblatt
+* [The Alchemy of Finance](https://www.goodreads.com/book/show/369708.The_Alchemy_of_Finance) - George Soros
+* [Fooled by Randomness](https://www.goodreads.com/book/show/38315.Fooled_by_Randomness) - Nassim Nicholas Taleb
+* [Extraordinary Popular Delusions and the Madness of Crowds](https://www.goodreads.com/book/show/35790.Extraordinary_Popular_Delusions_and_the_Madness_of_Crowds_Confusi_n_de_Confusiones) - Martin S. Fridson 
+* [The Black Swan](https://www.goodreads.com/book/show/242472.The_Black_Swan) - Nassim Nicholas Taleb
+* [Irrational Exuberance](https://www.goodreads.com/book/show/100132.Irrational_Exuberance) - Robert J. Shiller
+* [When Genius Failed: The Rise and Fall of Long-Term Capital Management](https://www.goodreads.com/book/show/10669.When_Genius_Failed) - Roger Lowenstein
 
 
 ### Websites
