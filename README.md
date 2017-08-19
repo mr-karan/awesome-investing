@@ -16,7 +16,6 @@ Curated list of investment &amp; finance related resources.
 
 * [The Intelligent Investor](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor) - Benjamin Graham.
 
-
 ### Websites
 
 
