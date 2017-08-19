@@ -6,7 +6,7 @@ Curated list of investment &amp; finance related resources.
 ## Contents
 
 * [Books](#books)
-* [Websites / Blogs](#websites-blogs)
+* [Websites / Blogs](#websitesblogs)
 * [Courses](#courses)
 * [Sub Reddits](#sub-reddits)
 * [Tools](#tools)
