@@ -49,7 +49,7 @@ Curated list of investment &amp; finance related resources.
 * [When Genius Failed: The Rise and Fall of Long-Term Capital Management](https://www.goodreads.com/book/show/10669.When_Genius_Failed) - Roger Lowenstein
 
 
-### Websites / Blogs
+### Websites/Blogs
 
 * [Pulse](http://pulse.zerodha.com/)
 * [ContrarianValue Edge](https://contrarianvalueedge.wordpress.com/)
