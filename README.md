@@ -57,15 +57,21 @@ Curated list of investment &amp; finance related resources.
 * [FreeFinCal](https://freefincal.com/)
 * [Farnam Street Blog](https://www.farnamstreetblog.com/)
 * [Of Dollars and Data](https://ofdollarsanddata.com/)
+* [Get Rich Slowly](http://www.getrichslowly.org/blog/)
 * [Capital Mind](https://capitalmind.in/)
+* [jlcollinsnh](http://jlcollinsnh.com/)
 * [Long Term Value Blog](https://longtermvalue.wordpress.com/)
 * [Musings on Markets](http://aswathdamodaran.blogspot.in/)
+* [The White Coat Investor](https://www.whitecoatinvestor.com/)
+* [Mad Fientist](http://www.madfientist.com/)
 * [Gannon Investing](http://www.gannononinvesting.com/)
 * [ShadowStock](http://shadowstock.blogspot.in/)
 * [Odd Ball Stocks](http://www.oddballstocks.com//)
+* [Mr. Money Mustache](http://www.mrmoneymustache.com/)
 * [Glenn Chan's Random Notes on Investing](https://glennchan.wordpress.com/)
 * [Fundoo Professor](https://fundooprofessor.wordpress.com/)
-
+* [The Finance Buff](https://thefinancebuff.com/)
+* [Bogleheads Investing Start-up kit](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investing_start-up_kit)
 
 
 ### Courses
