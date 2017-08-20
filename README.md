@@ -124,6 +124,8 @@ Created by: The Islamic Research and Training Institute
 * [Quandl](https://www.quandl.com/)
 * [Quantopian](https://www.quantopian.com/)
 * [Zipline](http://www.zipline.io/)
+* [py-folio](https://quantopian.github.io/pyfolio/)
+* [ta-lib](http://ta-lib.org/)
 * [Investing.com Financial tools](https://in.investing.com/tools/)
 -----
 
