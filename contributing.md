@@ -11,7 +11,7 @@ as well.
 
 Apart from that, 
 
-* Book links must point to Goodreads.com
+* Book links must point to [Goodreads](https://www.goodreads.com/)
 * Scammy blogs which require to subscribe for viewing the content will not be accepted
 * Check your spelling and grammar twice before submitting a PR.
 

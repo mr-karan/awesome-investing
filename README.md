@@ -121,7 +121,9 @@ Created by: The Islamic Research and Training Institute
 * [Screener](https://www.screener.in/)
 * [Screener-Smallcase](https://screener.smallcase.com/)
 * [Trading View](https://in.tradingview.com/)
-
+* [Quandl](https://www.quandl.com/)
+* [Quantopian](https://www.quantopian.com/)
+* [Zipline](http://www.zipline.io/)
 -----
 
 ## License
