@@ -1,7 +1,7 @@
-# Awesome Investing 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Investing  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Curated list of investment &amp; finance related resources.
+
+> Curated list of investment &amp; finance related resources.
 
 ## Contents
 
@@ -124,6 +124,7 @@ Created by: The Islamic Research and Training Institute
 * [Quandl](https://www.quandl.com/)
 * [Quantopian](https://www.quantopian.com/)
 * [Zipline](http://www.zipline.io/)
+* [Investing.com Financial tools](https://in.investing.com/tools/)
 -----
 
 ## License
