@@ -99,7 +99,7 @@ Created by: QuantInsti
 Created by: Babson College
 * [Understanding Islamic Insurance and Investments](https://www.edx.org/course/introduction-investments-iimbx-fc250x-0) - Learn about the Islamic Takaful system and the basics of Islamic insurance, mutual and investment funds.
 Created by: The Islamic Research and Training Institute
-
+* [Introduction to Portfolio Analysis in R](https://www.datacamp.com/courses/introduction-to-portfolio-analysis-in-r) - In this course, you will learn this by critically analyzing portfolio returns using the package PerformanceAnalytics. The course also shows how to estimate the portfolio weights that optimally balance risk and return. This is a data-driven course that combines portfolio theory with the practice in R, illustrated on real-life examples of equity portfolios and asset allocation problems. 
 
 
 ### Sub-Reddits
