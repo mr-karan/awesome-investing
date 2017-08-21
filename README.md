@@ -10,6 +10,7 @@
 * [Courses](#courses)
 * [Sub Reddits](#sub-reddits)
 * [Tools](#tools)
+* [Podcasts](#podcasts)
 
 ### Books
 
@@ -72,6 +73,7 @@
 * [Fundoo Professor](https://fundooprofessor.wordpress.com/)
 * [The Finance Buff](https://thefinancebuff.com/)
 * [Bogleheads Investing Start-up kit](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investing_start-up_kit)
+* [Dr. Vijay Malik.com](http://www.drvijaymalik.com/)
 
 
 ### Courses
@@ -111,6 +113,16 @@ Created by: The Islamic Research and Training Institute
 * [r/Economics/](https://www.reddit.com/r/Economics/)
 * [r/FIREIndia](https://www.reddit.com/r/FIREIndia/)
 
+### Podcasts
+* [Zerodha Educate](https://zerodha.com/educate/)
+* [Stacking Benjamins](http://www.stackingbenjamins.com/category/podcast/)
+* [John Mihaljevic Podcast](http://valuepodcast.com/about)
+* [Planet Money](http://www.npr.org/sections/money/)
+* [Value Investing Podcast](http://www.beyondproxy.com/tag/value-investing-podcast/)
+* [The Peter Schiff Podcast](http://www.schiffradio.com/)
+* [Dave Ramsey Podcast](https://www.daveramsey.com/show/radio/)
+* [The Investors Podcast](https://www.theinvestorspodcast.com/)
+* [KPP Financial Investtalk](http://www.kppfinancial.com/investtalk)
 
 ### Tools
 
@@ -127,6 +139,7 @@ Created by: The Islamic Research and Training Institute
 * [py-folio](https://quantopian.github.io/pyfolio/)
 * [ta-lib](http://ta-lib.org/)
 * [Investing.com Financial tools](https://in.investing.com/tools/)
+
 -----
 
 ## License
