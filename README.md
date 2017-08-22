@@ -56,6 +56,7 @@
 * [ContrarianValue Edge](https://contrarianvalueedge.wordpress.com/)
 * [Safal Niveshak](http://www.safalniveshak.com/)
 * [FreeFinCal](https://freefincal.com/)
+* [ValueResearchOnline](https://www.valueresearchonline.com/)
 * [Farnam Street Blog](https://www.farnamstreetblog.com/)
 * [Of Dollars and Data](https://ofdollarsanddata.com/)
 * [Get Rich Slowly](http://www.getrichslowly.org/blog/)
@@ -139,6 +140,7 @@ Created by: The Islamic Research and Training Institute
 * [py-folio](https://quantopian.github.io/pyfolio/)
 * [ta-lib](http://ta-lib.org/)
 * [Investing.com Financial tools](https://in.investing.com/tools/)
+* [YNAB](https://www.youneedabudget.com/)
 
 -----
 
