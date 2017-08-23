@@ -48,8 +48,8 @@
 * [The Black Swan](https://www.goodreads.com/book/show/242472.The_Black_Swan) - Nassim Nicholas Taleb
 * [Irrational Exuberance](https://www.goodreads.com/book/show/100132.Irrational_Exuberance) - Robert J. Shiller
 * [When Genius Failed: The Rise and Fall of Long-Term Capital Management](https://www.goodreads.com/book/show/10669.When_Genius_Failed) - Roger Lowenstein
-* [The 5 Mistakes Every Investor Makes and How to Avoid Them](https://www.goodreads.com/book/show/20914691-the-5-mistakes-every-investor-makes-and-how-to-avoid-them)
-* [MONEY Master the Game](https://www.goodreads.com/book/show/23014006-money-master-the-game)
+* [The 5 Mistakes Every Investor Makes and How to Avoid Them](https://www.goodreads.com/book/show/20914691-the-5-mistakes-every-investor-makes-and-how-to-avoid-them) - Peter Mallouk
+* [MONEY Master the Game](https://www.goodreads.com/book/show/23014006-money-master-the-game) - Anthony Robbins
 
 ### Websites/Blogs
 
