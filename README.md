@@ -48,7 +48,8 @@
 * [The Black Swan](https://www.goodreads.com/book/show/242472.The_Black_Swan) - Nassim Nicholas Taleb
 * [Irrational Exuberance](https://www.goodreads.com/book/show/100132.Irrational_Exuberance) - Robert J. Shiller
 * [When Genius Failed: The Rise and Fall of Long-Term Capital Management](https://www.goodreads.com/book/show/10669.When_Genius_Failed) - Roger Lowenstein
-
+* [The 5 Mistakes Every Investor Makes and How to Avoid Them](https://www.goodreads.com/book/show/20914691-the-5-mistakes-every-investor-makes-and-how-to-avoid-them)
+* [MONEY Master the Game](https://www.goodreads.com/book/show/23014006-money-master-the-game)
 
 ### Websites/Blogs
 
@@ -75,7 +76,8 @@
 * [The Finance Buff](https://thefinancebuff.com/)
 * [Bogleheads Investing Start-up kit](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investing_start-up_kit)
 * [Dr. Vijay Malik.com](http://www.drvijaymalik.com/)
-
+* [The Motley Fool](https://www.fool.com/)
+* [BlackRock Blog](https://www.blackrockblog.com/)
 
 ### Courses
 * [Varsity](https://zerodha.com/varsity/) - Varsity is an easy to grasp collection of stock market lessons with in-depth coverage and illustrations. 
@@ -124,6 +126,7 @@ Created by: The Islamic Research and Training Institute
 * [Dave Ramsey Podcast](https://www.daveramsey.com/show/radio/)
 * [The Investors Podcast](https://www.theinvestorspodcast.com/)
 * [KPP Financial Investtalk](http://www.kppfinancial.com/investtalk)
+* [MoneyTree Podcast](http://moneytreepodcast.com/)
 
 ### Tools
 
