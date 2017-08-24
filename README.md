@@ -78,6 +78,8 @@
 * [Dr. Vijay Malik.com](http://www.drvijaymalik.com/)
 * [The Motley Fool](https://www.fool.com/)
 * [BlackRock Blog](https://www.blackrockblog.com/)
+* [mfcritic](http://mfcritic.blogspot.in/)
+
 
 ### Courses
 * [Varsity](https://zerodha.com/varsity/) - Varsity is an easy to grasp collection of stock market lessons with in-depth coverage and illustrations. 
@@ -127,6 +129,7 @@ Created by: The Islamic Research and Training Institute
 * [The Investors Podcast](https://www.theinvestorspodcast.com/)
 * [KPP Financial Investtalk](http://www.kppfinancial.com/investtalk)
 * [MoneyTree Podcast](http://moneytreepodcast.com/)
+* [PaisaVaisa](http://ivmpodcasts.com/paisavaisa/)
 
 ### Tools
 
