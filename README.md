@@ -82,6 +82,7 @@
 * [A Wealth of Common Sense](http://awealthofcommonsense.com/)
 * [Philosophical Economics](http://www.philosophicaleconomics.com/)
 * [AIFW Facebook Group](https://www.facebook.com/groups/asanideasforwealth)
+* [Eighty Twenty Investor】(https://eightytwentyinvestor.com/)
 
 ### Courses
 * [Varsity](https://zerodha.com/varsity/) - Varsity is an easy to grasp collection of stock market lessons with in-depth coverage and illustrations. 
