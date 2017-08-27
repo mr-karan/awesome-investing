@@ -83,6 +83,7 @@
 * [Philosophical Economics](http://www.philosophicaleconomics.com/)
 * [AIFW Facebook Group](https://www.facebook.com/groups/asanideasforwealth)
 * [Eighty Twenty Investor](https://eightytwentyinvestor.com/)
+* [Howard Marks Memo](https://www.oaktreecapital.com/insights/howard-marks-memos)
 
 ### Courses
 * [Varsity](https://zerodha.com/varsity/) - Varsity is an easy to grasp collection of stock market lessons with in-depth coverage and illustrations. 
