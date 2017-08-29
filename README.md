@@ -86,6 +86,8 @@
 * [Howard Marks Memo](https://www.oaktreecapital.com/insights/howard-marks-memos)
 * [Jago Investor](https://www.jagoinvestor.com/)
 * [Saving Habit](https://savinghabit.com)
+* [Value Stock Guide](https://valuestockguide.com/)
+* [Masters Invest](http://mastersinvest.com/)
 
 ### Courses
 * [Varsity](https://zerodha.com/varsity/) - Varsity is an easy to grasp collection of stock market lessons with in-depth coverage and illustrations. 
