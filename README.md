@@ -55,7 +55,11 @@
 * [Damn Right!: Behind the Scenes with Berkshire Hathaway Billionaire Charlie Munger](https://www.goodreads.com/book/show/1160.Damn_Right_) - Janet Lowe, Warren Buffett 
 * [Influence: The Psychology of Persuasion](https://www.goodreads.com/book/show/28815.Influence) - Robert B. Cialdini
 * [Seeking Wisdom: From Darwin To Munger](https://www.goodreads.com/book/show/1995421.Seeking_Wisdom) - Peter Bevelin
-
+* [Investing: The Last Liberal Art](https://www.goodreads.com/book/show/209954.Investing) - Robert G. Hagstrom
+* [The Little Book of Behavioral Investing](https://www.goodreads.com/book/show/6922765-the-little-book-of-behavioral-investing) - James Montier
+* [The Wisdom of Crowds](https://www.goodreads.com/book/show/68143.The_Wisdom_of_Crowds) - James Surowiecki
+* [Reminiscences of a Stock Operator](https://www.goodreads.com/book/show/100779.Reminiscences_of_a_Stock_Operator) - Edwin Lefèvre
+* [Margin of Safety](https://www.goodreads.com/book/show/746936.Margin_of_Safety) - Seth A. Klarman
 
 ### Websites/Blogs
 
