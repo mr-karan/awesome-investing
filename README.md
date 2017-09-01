@@ -50,6 +50,12 @@
 * [When Genius Failed: The Rise and Fall of Long-Term Capital Management](https://www.goodreads.com/book/show/10669.When_Genius_Failed) - Roger Lowenstein
 * [The 5 Mistakes Every Investor Makes and How to Avoid Them](https://www.goodreads.com/book/show/20914691-the-5-mistakes-every-investor-makes-and-how-to-avoid-them) - Peter Mallouk
 * [MONEY Master the Game](https://www.goodreads.com/book/show/23014006-money-master-the-game) - Anthony Robbins
+* [The Mind of Wall Street: A Legendary Financier on the Perils of Greed and the Mysteries of the Market](https://www.goodreads.com/book/show/793965.The_Mind_of_Wall_Street) - Leon Levy, Eugene Linden
+* [Charlie Munger: The Complete Investor](https://www.goodreads.com/book/show/25530069-charlie-munger) - Tren Griffin
+* [Damn Right!: Behind the Scenes with Berkshire Hathaway Billionaire Charlie Munger](https://www.goodreads.com/book/show/1160.Damn_Right_) - Janet Lowe, Warren Buffett 
+* [Influence: The Psychology of Persuasion](https://www.goodreads.com/book/show/28815.Influence) - Robert B. Cialdini
+* [Seeking Wisdom: From Darwin To Munger](https://www.goodreads.com/book/show/1995421.Seeking_Wisdom) - Peter Bevelin
+
 
 ### Websites/Blogs
 
