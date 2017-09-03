@@ -99,6 +99,7 @@
 * [Value Stock Guide](https://valuestockguide.com/)
 * [Masters Invest](http://mastersinvest.com/)
 * [Brooklyn Investor](http://brooklyninvestor.blogspot.in/)
+* [Eighty Twenty Investor](https://eightytwentyinvestor.com/)
 
 ### Courses
 * [Varsity](https://zerodha.com/varsity/) - Varsity is an easy to grasp collection of stock market lessons with in-depth coverage and illustrations. 
