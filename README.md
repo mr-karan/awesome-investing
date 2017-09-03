@@ -60,6 +60,12 @@
 * [The Wisdom of Crowds](https://www.goodreads.com/book/show/68143.The_Wisdom_of_Crowds) - James Surowiecki
 * [Reminiscences of a Stock Operator](https://www.goodreads.com/book/show/100779.Reminiscences_of_a_Stock_Operator) - Edwin Lefèvre
 * [Margin of Safety](https://www.goodreads.com/book/show/746936.Margin_of_Safety) - Seth A. Klarman
+* [Value Investing: Tools and Techniques for Intelligent Investment](https://www.goodreads.com/book/show/7080407-value-investing) - James Montier
+* [The Little Book of Value Investing](https://www.goodreads.com/book/show/75893.The_Little_Book_of_Value_Investing) - Christopher H. Browne
+* [The Dhandho Investor](https://www.goodreads.com/book/show/500514.The_Dhandho_Investor) - Mohnish Pabrai
+* [It's When You Sell That Counts](https://www.goodreads.com/book/show/4320295-it-s-when-you-sell-that-counts) - Donald L. Cassidy
+* [Liar's Poker](https://www.goodreads.com/book/show/7865083-liar-s-poker) - Michael Lewis
+* [The Snowball: Warren Buffett and the Business of Life](https://www.goodreads.com/book/show/2054761.The_Snowball) - Alice Schroeder
 
 ### Websites/Blogs
 
@@ -99,7 +105,6 @@
 * [Value Stock Guide](https://valuestockguide.com/)
 * [Masters Invest](http://mastersinvest.com/)
 * [Brooklyn Investor](http://brooklyninvestor.blogspot.in/)
-* [Eighty Twenty Investor](https://eightytwentyinvestor.com/)
 
 ### Courses
 * [Varsity](https://zerodha.com/varsity/) - Varsity is an easy to grasp collection of stock market lessons with in-depth coverage and illustrations. 
