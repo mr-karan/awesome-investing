@@ -66,7 +66,7 @@
 * [It's When You Sell That Counts](https://www.goodreads.com/book/show/4320295-it-s-when-you-sell-that-counts) - Donald L. Cassidy
 * [Liar's Poker](https://www.goodreads.com/book/show/7865083-liar-s-poker) - Michael Lewis
 * [The Snowball: Warren Buffett and the Business of Life](https://www.goodreads.com/book/show/2054761.The_Snowball) - Alice Schroeder
-
+* [The Battle for Investment Survival](https://www.goodreads.com/book/show/350675.The_Battle_for_Investment_Survival_) - Gerald M. Loeb
 ### Websites/Blogs
 
 * [Pulse](http://pulse.zerodha.com/)
