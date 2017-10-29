@@ -1,4 +1,4 @@
-# Awesome Investing  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿# Awesome Investing  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 > Curated list of investment &amp; finance related resources.
@@ -67,6 +67,8 @@
 * [Liar's Poker](https://www.goodreads.com/book/show/7865083-liar-s-poker) - Michael Lewis
 * [The Snowball: Warren Buffett and the Business of Life](https://www.goodreads.com/book/show/2054761.The_Snowball) - Alice Schroeder
 * [The Battle for Investment Survival](https://www.goodreads.com/book/show/350675.The_Battle_for_Investment_Survival_) - Gerald M. Loeb
+* [Your Money: The Missing Manual](https://www.goodreads.com/book/show/7268380-your-money) - J.D. Roth
+
 ### Websites/Blogs
 
 * [Pulse](http://pulse.zerodha.com/)
@@ -107,6 +109,7 @@
 * [Brooklyn Investor](http://brooklyninvestor.blogspot.in/)
 
 ### Courses
+
 * [Varsity](https://zerodha.com/varsity/) - Varsity is an easy to grasp collection of stock market lessons with in-depth coverage and illustrations. 
 Created by: Zerodha
 * [Introduction to Investments](https://www.edx.org/course/introduction-investments-iimbx-fc250x-0) - Learn about equity markets and security valuation
@@ -133,6 +136,7 @@ Created by: The Islamic Research and Training Institute
 
 
 ### Sub-Reddits
+
 * [r/investing](https://www.reddit.com/r/investing/)
 * [r/IndiaInvestments](https://www.reddit.com/r/IndiaInvestments/)
 * [r/business](https://www.reddit.com/r/business/)
@@ -144,6 +148,7 @@ Created by: The Islamic Research and Training Institute
 * [r/FIREIndia](https://www.reddit.com/r/FIREIndia/)
 
 ### Podcasts
+
 * [Zerodha Educate](https://zerodha.com/educate/)
 * [Stacking Benjamins](http://www.stackingbenjamins.com/category/podcast/)
 * [John Mihaljevic Podcast](http://valuepodcast.com/about)
