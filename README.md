@@ -160,6 +160,7 @@ Created by: The Islamic Research and Training Institute
 * [KPP Financial Investtalk](http://www.kppfinancial.com/investtalk)
 * [MoneyTree Podcast](http://moneytreepodcast.com/)
 * [PaisaVaisa](http://ivmpodcasts.com/paisavaisa/)
+* [ChooseFI](https://www.choosefi.com/)
 
 ### Tools
 
