@@ -68,6 +68,7 @@
 * [The Snowball: Warren Buffett and the Business of Life](https://www.goodreads.com/book/show/2054761.The_Snowball) - Alice Schroeder
 * [The Battle for Investment Survival](https://www.goodreads.com/book/show/350675.The_Battle_for_Investment_Survival_) - Gerald M. Loeb
 * [Your Money: The Missing Manual](https://www.goodreads.com/book/show/7268380-your-money) - J.D. Roth
+* [Active Portfolio Management](https://www.goodreads.com/book/show/537529.Active_Portfolio_Management) - Richard C. Grinold,  Ronald N. Kahn
 
 ### Websites/Blogs
 
@@ -107,6 +108,8 @@
 * [Value Stock Guide](https://valuestockguide.com/)
 * [Masters Invest](http://mastersinvest.com/)
 * [Brooklyn Investor](http://brooklyninvestor.blogspot.in/)
+* [Street Wise Professor](https://streetwiseprofessor.com/)
+* [Augmented Trader](https://augmentedtrader.com/)
 
 ### Courses
 
