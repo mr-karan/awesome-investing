@@ -72,6 +72,7 @@
 
 ### Websites/Blogs
 
+* [Bank Spot](https://www.bankspot.org/)
 * [Pulse](http://pulse.zerodha.com/)
 * [ContrarianValue Edge](https://contrarianvalueedge.wordpress.com/)
 * [Safal Niveshak](http://www.safalniveshak.com/)
