@@ -58,7 +58,6 @@
 * [Investing: The Last Liberal Art](https://www.goodreads.com/book/show/209954.Investing) - Robert G. Hagstrom
 * [The Little Book of Behavioral Investing](https://www.goodreads.com/book/show/6922765-the-little-book-of-behavioral-investing) - James Montier
 * [The Wisdom of Crowds](https://www.goodreads.com/book/show/68143.The_Wisdom_of_Crowds) - James Surowiecki
-* [Reminiscences of a Stock Operator](https://www.goodreads.com/book/show/100779.Reminiscences_of_a_Stock_Operator) - Edwin Lefèvre
 * [Margin of Safety](https://www.goodreads.com/book/show/746936.Margin_of_Safety) - Seth A. Klarman
 * [Value Investing: Tools and Techniques for Intelligent Investment](https://www.goodreads.com/book/show/7080407-value-investing) - James Montier
 * [The Little Book of Value Investing](https://www.goodreads.com/book/show/75893.The_Little_Book_of_Value_Investing) - Christopher H. Browne
