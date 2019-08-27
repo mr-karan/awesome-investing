@@ -14,12 +14,12 @@
 
 ### Livros
 
-* [O JEITO WARREN BUFFETT DE INVESTIR](https://www.amazon.com.br/JEITO-WARREN-BUFFETT-INVESTIR-ebook/dp/B07S7DVYM9?tag=goog0ef-20&smid=A18CNA8NWQSYHH) - Robert G. Hagstrom
+* [O Jeito Warren Buffet de Investir](https://www.amazon.com.br/JEITO-WARREN-BUFFETT-INVESTIR-ebook/dp/B07S7DVYM9?tag=goog0ef-20&smid=A18CNA8NWQSYHH) - Robert G. Hagstrom
 
 ### Websites/Blogs
 
 * [FundsExplorer](https://www.fundsexplorer.com.br/) - Site de FII's
-* [Yubb](https://yubb.com.br/) - Plataforma de comparação de fundos e renda fix
+* [Yubb](https://yubb.com.br/) - Plataforma de comparação de fundos e renda fixa
 
 ### Apps
 
@@ -33,6 +33,10 @@
 ### Youtube
 
 * [Tiago Reis](https://www.youtube.com/channel/UCwONybZQdULFV_ts2911Rqg) - Fundador da Suno Research
+* [Investir com SIM](https://www.youtube.com/channel/UCZdSQqa66odWhXZPyi5JaBw) - Analista
+* [Bruno Perini - Você MAIS Rico](https://www.youtube.com/channel/UCCE-jo1GvBJqyj1b287h7jA) - Investidor
+* [Canal do Holder](https://www.youtube.com/channel/UCJIcpGAVfGIVgHSQ6oCcrXg) - Investidor Buy and Hold
+* [Professor Baroni](https://www.youtube.com/channel/UCSXdP8V4jRaw-8YMTpa6glw) - VP de FII da Suno Research
 
 ### Research
 
