@@ -145,7 +145,7 @@ Created by: The Islamic Research and Training Institute
 * [r/business](https://www.reddit.com/r/business/)
 * [r/personalfinance](https://www.reddit.com/r/personalfinance/)
 * [r/StockMarket/](https://www.reddit.com/r/StockMarket/)
-* [r/SecurityAnalysis/](https://www.reddit.com/r/SecurityAnalysis//)
+* [r/SecurityAnalysis/](https://www.reddit.com/r/SecurityAnalysis/)
 * [r/finance/](https://www.reddit.com/r/finance/)
 * [r/Economics/](https://www.reddit.com/r/Economics/)
 * [r/FIREIndia](https://www.reddit.com/r/FIREIndia/)
