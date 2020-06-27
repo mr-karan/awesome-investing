@@ -72,6 +72,8 @@
 
 ### Websites/Blogs
 
+* [Finception](https://finception.in/)
+* [Finshots Archives](https://finshots.in/archive/)
 * [Pulse](http://pulse.zerodha.com/)
 * [ContrarianValue Edge](https://contrarianvalueedge.wordpress.com/)
 * [Safal Niveshak](http://www.safalniveshak.com/)
