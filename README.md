@@ -112,6 +112,7 @@
 * [Brooklyn Investor](http://brooklyninvestor.blogspot.in/)
 * [Street Wise Professor](https://streetwiseprofessor.com/)
 * [Augmented Trader](https://augmentedtrader.com/)
+* [Open Investing Guide](https://herget.github.io/investing-guide/)
 
 ### Courses
 
