@@ -113,6 +113,8 @@
 * [Street Wise Professor](https://streetwiseprofessor.com/)
 * [Augmented Trader](https://augmentedtrader.com/)
 * [Open Investing Guide](https://herget.github.io/investing-guide/)
+* [FinViz](https://www.finviz.com/map.ashx)
+* [Investopedia](https://www.investopedia.com/)
 
 ### Courses
 
