@@ -115,6 +115,7 @@
 * [Open Investing Guide](https://herget.github.io/investing-guide/)
 * [FinViz](https://www.finviz.com/map.ashx)
 * [Investopedia](https://www.investopedia.com/)
+* [PrimeInvestor](https://primeinvestor.in)
 
 ### Courses
 
