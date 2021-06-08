@@ -173,11 +173,11 @@ Created by: The Islamic Research and Training Institute
 ### Tools
 
 * [Kite](https://kite.zerodha.com/) 
-* [Kite API](https://kite.trade/docs/connect/v1/) 
+* [Kite API](https://kite.trade/docs/connect/v3/) 
 * [Yahoo Finance API](https://developer.yahoo.com/finance/) 
 * [investR](http://investr.co.in/)
 * [Screener](https://www.screener.in/)
-* [Screener-Smallcase](https://screener.smallcase.com/)
+* [Tickertape](https://www.tickertape.in/)
 * [Trading View](https://in.tradingview.com/)
 * [Quandl](https://www.quandl.com/)
 * [Quantopian](https://www.quantopian.com/)
