@@ -186,6 +186,7 @@ Created by: The Islamic Research and Training Institute
 * [ta-lib](http://ta-lib.org/)
 * [Investing.com Financial tools](https://in.investing.com/tools/)
 * [YNAB](https://www.youneedabudget.com/)
+* [Reddit WallstreetBets Dashboard] (https://dashboard.nbshare.io/apps/reddit/wallstreetbets/)
 
 -----
 
