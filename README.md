@@ -72,6 +72,7 @@
 
 ### Websites/Blogs
 
+* [PrimeInvestor](https://primeinvestor.in)
 * [Finception](https://finception.in/)
 * [Finshots Archives](https://finshots.in/archive/)
 * [Pulse](http://pulse.zerodha.com/)
@@ -115,7 +116,6 @@
 * [Open Investing Guide](https://herget.github.io/investing-guide/)
 * [FinViz](https://www.finviz.com/map.ashx)
 * [Investopedia](https://www.investopedia.com/)
-* [PrimeInvestor](https://primeinvestor.in)
 
 ### Courses
 
