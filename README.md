@@ -187,6 +187,7 @@ Created by: The Islamic Research and Training Institute
 * [ta-lib](http://ta-lib.org/)
 * [Investing.com Financial tools](https://in.investing.com/tools/)
 * [YNAB](https://www.youneedabudget.com/)
+* [Ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software
 
 -----
 
