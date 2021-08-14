@@ -178,6 +178,7 @@ Created by: The Islamic Research and Training Institute
 * [Yahoo Finance API](https://developer.yahoo.com/finance/) 
 * [investR](http://investr.co.in/)
 * [Screener](https://www.screener.in/)
+* [ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
 * [Tickertape](https://www.tickertape.in/)
 * [Trading View](https://in.tradingview.com/)
 * [Quandl](https://www.quandl.com/)
