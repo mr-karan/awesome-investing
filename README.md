@@ -189,6 +189,7 @@ Created by: The Islamic Research and Training Institute
 * [Investing.com Financial tools](https://in.investing.com/tools/)
 * [YNAB](https://www.youneedabudget.com/)
 * [Ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software
+* [SEC API](https://sec-api.io) - query and real-time stream API to access all +18 million SEC filings
 
 -----
 
