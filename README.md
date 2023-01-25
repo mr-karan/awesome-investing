@@ -69,6 +69,7 @@
 * [Your Money: The Missing Manual](https://www.goodreads.com/book/show/7268380-your-money) - J.D. Roth
 * [Active Portfolio Management](https://www.goodreads.com/book/show/537529.Active_Portfolio_Management) - Richard C. Grinold,  Ronald N. Kahn
 * [Economics in One Lesson: The Shortest & Surest Way to Understand Basic Economics ](https://www.goodreads.com/book/show/3028.Economics_in_One_Lesson) - Henry Hazlitt
+* [Build a Robo Advisor with Python](https://www.manning.com/books/build-a-robo-advisor-with-python-from-scratch) - Rob Reider and Alexander Michalka
 
 ### Websites/Blogs
 
