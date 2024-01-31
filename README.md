@@ -191,7 +191,8 @@ Created by: The Islamic Research and Training Institute
 * [YNAB](https://www.youneedabudget.com/)
 * [Ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software
 * [SEC API](https://sec-api.io) - query and real-time stream API to access all +18 million SEC filings
-* [ThetaGang](https://github.com/brndnmtthws/thetagang) - Implements "the wheel" options strategy for IBKR
+* [ThetaGang](https://github.com/brndnmtthws/thetagang) - Implements "the wheel" options strategy for IBKR\
+* [Portfolio Visualizer](https://portfoliovisualizer.com) - Run Portfolio Backtests/Simulations
 
 -----
 
