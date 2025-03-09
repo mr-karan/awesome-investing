@@ -187,6 +187,7 @@ Created by: The Islamic Research and Training Institute
 * [Zipline](http://www.zipline.io/)
 * [py-folio](https://quantopian.github.io/pyfolio/)
 * [ta-lib](http://ta-lib.org/)
+* [Financial Data](https://financialdata.net/) - Stock Market And Financial Data API
 * [Investing.com Financial tools](https://in.investing.com/tools/)
 * [YNAB](https://www.youneedabudget.com/)
 * [Ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software
