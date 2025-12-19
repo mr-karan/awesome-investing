@@ -173,6 +173,7 @@
 
 ### Tools
 
+-  [Calcmatic](https://calcmatic.app) - Free online calculators for ecommerce profit, payment processing fees, shipping costs, and personal finance
 -   [Kite](https://kite.zerodha.com/)
 -   [Kite API](https://kite.trade/docs/connect/v3/)
 -   [Yahoo Finance API](https://developer.yahoo.com/finance/)
