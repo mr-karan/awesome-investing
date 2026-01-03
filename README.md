@@ -178,6 +178,7 @@
 -   [Yahoo Finance API](https://developer.yahoo.com/finance/)
 -   [investR](http://investr.co.in/)
 -   [Screener](https://www.screener.in/)
+-   [Vedika Astrology Finance API](https://vedika.io) - AI-powered Vedic astrology API for financial markets - muhurta timing, planetary transits, dasha periods, and investment astrology analysis
 -   [ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
 -   [Tickertape](https://www.tickertape.in/)
 -   [Trading View](https://in.tradingview.com/)
