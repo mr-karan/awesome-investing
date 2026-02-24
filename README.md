@@ -110,6 +110,7 @@
 -   [Saving Habit](https://savinghabit.com)
 -   [Value Stock Guide](https://valuestockguide.com/)
 -   [Masters Invest](http://mastersinvest.com/)
+-   [KeepRule](https://keeprule.com) - Investment principles and decision-making wisdom from Buffett, Munger, and 26 legendary investors.
 -   [Brooklyn Investor](http://brooklyninvestor.blogspot.in/)
 -   [Street Wise Professor](https://streetwiseprofessor.com/)
 -   [Augmented Trader](https://augmentedtrader.com/)
