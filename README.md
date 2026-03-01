@@ -193,6 +193,7 @@
 -   [ThetaGang](https://github.com/brndnmtthws/thetagang) - Implements "the wheel" options strategy for IBKR\
 -   [Portfolio Visualizer](https://portfoliovisualizer.com) - Run Portfolio Backtests/Simulations
 -   [Find My Moat](https://findmymoat.com/) - Investing Tools Directory
+-   [rebalance](https://github.com/cjroth/rebalance) - Interactive portfolio rebalancing TUI that imports brokerage CSV data, sets target allocations, and generates trade instructions. Built with ink-web.
 
 ---
 
