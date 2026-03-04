@@ -193,6 +193,9 @@
 -   [ThetaGang](https://github.com/brndnmtthws/thetagang) - Implements "the wheel" options strategy for IBKR\
 -   [Portfolio Visualizer](https://portfoliovisualizer.com) - Run Portfolio Backtests/Simulations
 -   [Find My Moat](https://findmymoat.com/) - Investing Tools Directory
+-   [iGotFomo Stock Screener](https://igotfomo.com/stocks/screener) - AI-powered stock screener covering 6,000+ stocks with convergence signals, technical indicators, and real-time data
+-   [iGotFomo Market Pulse](https://igotfomo.com/tools/market-pulse.html) - Free live market dashboard with indices, sector heatmap, top movers, and fear & greed gauge
+-   [iGotFomo Stock Calculator](https://igotfomo.com/tools/stock-calculator.html) - Investment return, DCA, and options P/L calculator with live stock prices
 
 ---
 
