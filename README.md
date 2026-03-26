@@ -193,6 +193,7 @@
 -   [ThetaGang](https://github.com/brndnmtthws/thetagang) - Implements "the wheel" options strategy for IBKR\
 -   [Portfolio Visualizer](https://portfoliovisualizer.com) - Run Portfolio Backtests/Simulations
 -   [Find My Moat](https://findmymoat.com/) - Investing Tools Directory
+-   [FlashAlpha](https://flashalpha.com) - Options analytics API for real-time gamma exposure (GEX), delta, vanna, charm, implied volatility, greeks, 0DTE analytics, and dealer positioning. Free tier available. [Python SDK](https://github.com/FlashAlpha-lab/flashalpha-python).
 
 ---
 
