@@ -95,6 +95,7 @@
 -   [Mr. Money Mustache](http://www.mrmoneymustache.com/)
 -   [Glenn Chan's Random Notes on Investing](https://glennchan.wordpress.com/)
 -   [Fundoo Professor](https://fundooprofessor.wordpress.com/)
+-   [讀角獸 (Ducorn)](https://ducorn.com) - Traditional Chinese investment analysis. Reads English sources (Mauboussin, Kahneman, Tetlock), finds contradictions, writes opinionated judgments. Covers SpaceX IPO valuation, cognitive biases in investing.
 -   [The Finance Buff](https://thefinancebuff.com/)
 -   [Bogleheads Investing Start-up kit](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investing_start-up_kit)
 -   [Dr. Vijay Malik.com](http://www.drvijaymalik.com/)
