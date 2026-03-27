@@ -175,6 +175,8 @@
 
 -   [Kite](https://kite.zerodha.com/)
 -   [Kite API](https://kite.trade/docs/connect/v3/)
+-   [CoinPaprika API](https://api.coinpaprika.com) - Free crypto market data API. 12,000+ coins, 350+ exchanges, tickers, OHLCV, historical prices. No API key for free tier.
+-   [DexPaprika API](https://api.dexpaprika.com) - Free DEX data API across 34 blockchains. 30M+ pools, 27M+ tokens, real-time streaming. No API key needed.
 -   [Yahoo Finance API](https://developer.yahoo.com/finance/)
 -   [investR](http://investr.co.in/)
 -   [Screener](https://www.screener.in/)
