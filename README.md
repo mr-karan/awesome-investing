@@ -85,11 +85,9 @@
 -   [Get Rich Slowly](http://www.getrichslowly.org/blog/)
 -   [Capital Mind](https://capitalmind.in/)
 -   [jlcollinsnh](http://jlcollinsnh.com/)
--   [Long Term Value Blog](https://longtermvalue.wordpress.com/)
 -   [Musings on Markets](http://aswathdamodaran.blogspot.in/)
 -   [The White Coat Investor](https://www.whitecoatinvestor.com/)
 -   [Mad Fientist](http://www.madfientist.com/)
--   [Gannon Investing](http://www.gannononinvesting.com/)
 -   [ShadowStock](http://shadowstock.blogspot.in/)
 -   [Odd Ball Stocks](http://www.oddballstocks.com//)
 -   [Mr. Money Mustache](http://www.mrmoneymustache.com/)
@@ -112,11 +110,11 @@
 -   [Masters Invest](http://mastersinvest.com/)
 -   [Brooklyn Investor](http://brooklyninvestor.blogspot.in/)
 -   [Street Wise Professor](https://streetwiseprofessor.com/)
--   [Augmented Trader](https://augmentedtrader.com/)
 -   [Open Investing Guide](https://herget.github.io/investing-guide/)
 -   [FinViz](https://www.finviz.com/map.ashx)
 -   [Investopedia](https://www.investopedia.com/)
 -   [PrimeInvestor](https://primeinvestor.in)
+-   [KeepRule](https://keeprule.com) - Free database of 1,377 investment principles from 26 legendary investors including Buffett, Munger, Graham, and Dalio. Features AI chat, psychology tests, and master comparisons.
 
 ### Courses
 
@@ -160,9 +158,7 @@
 
 -   [Zerodha Educate](https://zerodha.com/educate/)
 -   [Stacking Benjamins](http://www.stackingbenjamins.com/category/podcast/)
--   [John Mihaljevic Podcast](http://valuepodcast.com/about)
 -   [Planet Money](http://www.npr.org/sections/money/)
--   [Value Investing Podcast](http://www.beyondproxy.com/tag/value-investing-podcast/)
 -   [The Peter Schiff Podcast](http://www.schiffradio.com/)
 -   [Dave Ramsey Podcast](https://www.daveramsey.com/show/radio/)
 -   [The Investors Podcast](https://www.theinvestorspodcast.com/)
@@ -182,8 +178,7 @@
 -   [Tickertape](https://www.tickertape.in/)
 -   [Trading View](https://in.tradingview.com/)
 -   [Quandl](https://www.quandl.com/)
--   [Quantopian](https://www.quantopian.com/)
--   [Zipline](http://www.zipline.io/)
+-   [Zipline](https://github.com/quantopian/zipline)
 -   [py-folio](https://quantopian.github.io/pyfolio/)
 -   [ta-lib](http://ta-lib.org/)
 -   [Investing.com Financial tools](https://in.investing.com/tools/)
