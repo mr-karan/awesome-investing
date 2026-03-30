@@ -193,6 +193,7 @@
 -   [ThetaGang](https://github.com/brndnmtthws/thetagang) - Implements "the wheel" options strategy for IBKR\
 -   [Portfolio Visualizer](https://portfoliovisualizer.com) - Run Portfolio Backtests/Simulations
 -   [Find My Moat](https://findmymoat.com/) - Investing Tools Directory
+  - [Congressional Stock Brain](https://congressionalstockbrain.com) - AI-powered tool that tracks U.S. lawmakers' STOCK Act disclosures and converts them into machine-scored trade signals for retail investors
 
 ---
 
