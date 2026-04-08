@@ -185,6 +185,7 @@
 -   [YNAB](https://www.youneedabudget.com/)
 -   [Ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software
 -   [SEC API](https://sec-api.io) - query and real-time stream API to access all +18 million SEC filings
+-   [13F Insight](https://13finsight.com/) - Track institutional investor 13F holdings with AI-powered analysis and real-time filing alerts
 -   [ThetaGang](https://github.com/brndnmtthws/thetagang) - Implements "the wheel" options strategy for IBKR\
 -   [Portfolio Visualizer](https://portfoliovisualizer.com) - Run Portfolio Backtests/Simulations
 -   [Find My Moat](https://findmymoat.com/) - Investing Tools Directory
