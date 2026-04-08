@@ -190,7 +190,10 @@
 -   [YNAB](https://www.youneedabudget.com/)
 -   [Ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software
 -   [SEC API](https://sec-api.io) - query and real-time stream API to access all +18 million SEC filings
--   [ThetaGang](https://github.com/brndnmtthws/thetagang) - Implements "the wheel" options strategy for IBKR\
+-   [13F Insight](https://13finsight.com/) - Track institutional investor 13F holdings with AI-powered analysis and real-time filing alerts
+-   [ThetaGang](https://github.com/brndnmtthws/thetagang) - Implements "the wheel" options strategy for IBKR
+-   [FlashAlpha](https://flashalpha.com) - Options analytics API for real-time gamma exposure (GEX), delta, vanna, charm, implied volatility, greeks, 0DTE analytics, and dealer positioning. Free tier available
+-   [rebalance](https://github.com/cjroth/rebalance) - Interactive portfolio rebalancing TUI that imports brokerage CSV data, sets target allocations, and generates trade instructions\
 -   [Portfolio Visualizer](https://portfoliovisualizer.com) - Run Portfolio Backtests/Simulations
 -   [Find My Moat](https://findmymoat.com/) - Investing Tools Directory
 
