@@ -192,7 +192,7 @@
 -   [Portfolio Visualizer](https://portfoliovisualizer.com) - Run Portfolio Backtests/Simulations
 -   [Find My Moat](https://findmymoat.com/) - Investing Tools Directory
 -   [CalcFi](https://calcfi.app/) - 312+ free financial calculators (compound interest, FIRE number, retirement, investment returns, tax brackets). No signup, no ads.
-
+-   [Cost Seg Smart](https://costsegsmart.com/) - Automated cost segregation studies for real estate investors. Engineering-based tax depreciation reports delivered in under 1 hour, starting at $795.
 ---
 
 ## License
