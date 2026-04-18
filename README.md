@@ -115,6 +115,7 @@
 -   [Investopedia](https://www.investopedia.com/)
 -   [PrimeInvestor](https://primeinvestor.in)
 -   [KeepRule](https://keeprule.com) - Free database of 1,377 investment principles from 26 legendary investors including Buffett, Munger, Graham, and Dalio. Features AI chat, psychology tests, and master comparisons.
+-   [The Stock Radar](https://thestockradar.com) - Daily multi-language stock analysis covering 6 markets (US, Korea, Japan, Taiwan, India, Germany). Technical and fundamental coverage of daily movers, sector rotation, earnings, and weekly research reports — published in 6 languages.
 
 ### Courses
 
