@@ -190,6 +190,7 @@
 -   [13F Insight](https://13finsight.com/) - Track institutional investor 13F holdings with AI-powered analysis and real-time filing alerts
 -   [ThetaGang](https://github.com/brndnmtthws/thetagang) - Implements "the wheel" options strategy for IBKR
 -   [FlashAlpha](https://flashalpha.com) - Options analytics API for real-time gamma exposure (GEX), delta, vanna, charm, implied volatility, greeks, 0DTE analytics, and dealer positioning. Free tier available
+-   [Helium](https://heliumtrades.com/mcp-page/) - Real-time news with bias scoring across 5,000+ sources, live stock/ETF/crypto data with AI bull/bear cases, ML options pricing, and balanced news synthesis. Available as [MCP server](https://github.com/connerlambden/helium-mcp) or REST API. Free tier available
 -   [rebalance](https://github.com/cjroth/rebalance) - Interactive portfolio rebalancing TUI that imports brokerage CSV data, sets target allocations, and generates trade instructions
 -   [Portfolio Visualizer](https://portfoliovisualizer.com) - Run Portfolio Backtests/Simulations
 -   [Find My Moat](https://findmymoat.com/) - Investing Tools Directory
