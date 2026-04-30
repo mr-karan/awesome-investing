@@ -195,6 +195,7 @@
 -   [Portfolio Visualizer](https://portfoliovisualizer.com) - Run Portfolio Backtests/Simulations
 -   [Find My Moat](https://findmymoat.com/) - Investing Tools Directory
 -   [CalcFi](https://calcfi.app/) - 312+ free financial calculators (compound interest, FIRE number, retirement, investment returns, tax brackets). No signup, no ads.
+-   [DeepAlpha](https://github.com/stefanoviana/deepalpha) - Open source AI crypto trading bot with ML ensemble (XGBoost, LightGBM, CatBoost). 3 bot types (AI, Grid, DCA), 12 exchanges, Telegram control. [PyPI](https://pypi.org/project/deepalpha/)
 -   [FinancialData.Net](https://financialdata.net/) - Financial datasets (stock market data, financial statements, sustainability data, and more).
 
 ---
