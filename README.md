@@ -196,6 +196,7 @@
 -   [Find My Moat](https://findmymoat.com/) - Investing Tools Directory
 -   [CalcFi](https://calcfi.app/) - 312+ free financial calculators (compound interest, FIRE number, retirement, investment returns, tax brackets). No signup, no ads.
 -   [FinancialData.Net](https://financialdata.net/) - Financial datasets (stock market data, financial statements, sustainability data, and more).
+-   [StockVektor](https://stockvektor.com) - Free stock research tool covering ~1,300 US stocks with proprietary quality scores (Piotroski, Altman, Beneish, ROIC) derived from SEC EDGAR data, plus insider buying clusters, 13F super-investor overlap, and pattern surfaces like cheap compounders and hidden margin expansion.
 
 ---
 
