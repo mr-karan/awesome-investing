@@ -187,6 +187,7 @@
 -   [Ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software
 -   [FXMacroData](https://fxmacrodata.com/) - Macroeconomic and FX data API with central bank announcements, rates, inflation, employment, GDP, and release calendars for 18 currencies
 -   [SEC API](https://sec-api.io) - query and real-time stream API to access all +18 million SEC filings
+-   [Section 16 Deadline Calculator](https://section-16-deadline-calculator.vercel.app/) - No-login local calculator for common SEC Forms 3, 4, and 5 deadline planning, with memo, CSV, and ICS calendar exports.
 -   [13F Insight](https://13finsight.com/) - Track institutional investor 13F holdings with AI-powered analysis and real-time filing alerts
 -   [ThetaGang](https://github.com/brndnmtthws/thetagang) - Implements "the wheel" options strategy for IBKR
 -   [FlashAlpha](https://flashalpha.com) - Options analytics API for real-time gamma exposure (GEX), delta, vanna, charm, implied volatility, greeks, 0DTE analytics, and dealer positioning. Free tier available
