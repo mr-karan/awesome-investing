@@ -199,6 +199,10 @@
 
 ---
 
+- [Levyio](https://levyio.com/) - Free US tax calculators (income, property, sales) by state and city. Cites IRS, BLS, Tax Foundation.
+- [Amortio](https://www.amortio.com/) - Free mortgage calculators using Freddie Mac PMMS rate data. PITI, FHA/VA/USDA analysis.
+- [Salario](https://salario.io/) - Free US salary calculator by city × occupation, BLS OEWS data based.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
